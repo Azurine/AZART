@@ -17,7 +17,7 @@ When creating an AZART collectible, Azurine can set a royaly amount that will pa
 It is in the best interest of the artist and his heirs to continue the project indefinitely. As Azurine creates more work, it will bring more visibility to the project and his earlier work. More popular pieces will transact more frequently, but less popular pieces will be tempting to speculators and art appreciators due to their lower prices. In either case, AZART pieces will continue to be a store of value.
 
 ## AUTHENTICITY
-When Azurine creates an AZART and publishes it on the blockchain and the project websites, it contains a method for verifying the authenticity of the artwork associated with it. The AZA’s digital artwork file however, is too large to store on the Ether blockchain. The artwork’s digital file, which is stored in the website’s directories or databases and on other file servers and mirrors, must be provable authentic.
+When Azurine creates an AZART and publishes it on the blockchain and the project websites, it contains a method for verifying the authenticity of the artwork associated with it. The AZART’s digital artwork file however, is too large to store on the Ether blockchain. The artwork’s digital file, which is stored in the website’s directories or databases and on other file servers and mirrors, must be provable authentic.
 
 ### VERIFICATION
 Authenticity of AZART images are easy to test. Check the SHA-256 hash of the image file with a PC utility or online with a tool such as https://md5file.com/calculator or similar. The image will be authentic if the result you get is the same as the one that is embedded in the AZART collectible's metadata.
