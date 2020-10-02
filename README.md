@@ -27,3 +27,11 @@ Download the image #00001 from the project website, a mirror, or from the github
 
 ### DATA SECURITY
 The Azurine.art website will be backed up regularly, automatically, and all art is stored redundantly. Github is also pretty secure... It is in the best interest of Azurine and their heirs to maintain the project and allow the ordering of prints or physical versions indefinitely.
+
+## LINKS
+Project Website: https://azurine.art/
+Rarible Created Tokens: https://app.rarible.com/azurine/created
+AZART Collectibles: https://app.rarible.com/azart/collectibles
+Project Repository: https://github.com/Azurine/AZART/
+3box profile: https://3box.io/0xe305d5289a5cd332a7fd9a2be002cd059f19607f
+Twitter Profile: https://twitter.com/AzurineArt
