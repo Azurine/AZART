@@ -30,8 +30,13 @@ The Azurine.art website will be backed up regularly, automatically, and all art 
 
 ## LINKS
 Project Website: https://azurine.art/
+
 Rarible Created Tokens: https://app.rarible.com/azurine/created
+
 AZART Collectibles: https://app.rarible.com/azart/collectibles
+
 Project Repository: https://github.com/Azurine/AZART/
+
 3box profile: https://3box.io/0xe305d5289a5cd332a7fd9a2be002cd059f19607f
+
 Twitter Profile: https://twitter.com/AzurineArt
