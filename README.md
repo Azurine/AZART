@@ -20,7 +20,7 @@ It is in the best interest of the artist and his heirs to continue the project i
 When Azurine creates an AZART and publishes it on the blockchain and the project websites, it contains a method for verifying the authenticity of the artwork associated with it. The AZART’s digital artwork file however, is too large to store on the Ether blockchain. The artwork’s digital file, which is stored in the website’s directories or databases and on other file servers and mirrors, must be provable authentic.
 
 ### VERIFICATION
-Authenticity of AZART images are easy to test. Check the SHA-256 hash of the image file with a PC utility or online with a tool such as https://md5file.com/calculator or similar. The image will be authentic if the result you get is the same as the one that is embedded in the AZART collectible's metadata.
+Authenticity of AZART images are easy to test. Check the SHA-256 hash of the image file with a PC utility or online with a tool such as https://emn178.github.io/online-tools/sha256_checksum.html or similar. The image will be authentic if the result you get is the same as the one that is embedded in the AZART collectible's metadata.
 
 For example, AZART #00001 has the following hash embedded in its metadata: 3b9a6ab6f269cf029c66cc67ac862f6d16b1ef7aa8ec81b7ac0f13e3f9178268.
 Download the image #00001 from the project website, a mirror, or from the github repository, and check its SHA-256. If it matches, you know you’re buying a verifyably original piece created by Azurine.
