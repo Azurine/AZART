@@ -40,3 +40,6 @@ Project Repository: https://github.com/Azurine/AZART/
 3box profile: https://3box.io/0xe305d5289a5cd332a7fd9a2be002cd059f19607f
 
 Twitter Profile: https://twitter.com/AzurineArt
+
+# Copyright Notice
+All content is copyright by Azurine, 2020, and cannot be reposted without written permission. See the license for more info.
