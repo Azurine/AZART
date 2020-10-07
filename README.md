@@ -10,6 +10,8 @@ Most digital currencies or ‘coins’ are fungible; meaning that any one unit i
 ## THE ART
 AZART collectible artwork is published online for the world to appreciate in digital formats at display resolution. These files are stored on the main project website, Azurine.art, as well as in a public github repository. Another version of the artwork also exists—one that allows creation of a physical version or representation of the artwork. Prints and physical versions of the artwork are only available to current and past owner-addresses, and these physical versions are made from higher resolution images. These files cannot be public but are redundantly backed up and archived. They are permanently available to the operators of the AZART project to create physical versions. A local master file, distributed local backups, and paid cloud storage solutions will ensure file redundancy.
 
+**Automated print-storefront with web3 integration isn't yet activated. Contact Azurine to inquire about prints and costs.** 
+
 ### SALE PROFIT-SPLITTING
 When creating an AZART collectible, Azurine can set a royaly amount that will pay Azurine every time the AZART collectible transacts. This choice was made to balance the interest of crypto-speculators and art patrons. Specific details are recorded in the meta descriptions of the pieces.
 
